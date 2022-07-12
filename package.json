@@ -1,0 +1,27 @@
+{
+  "name": "ds-and-algorithms",
+  "version": "1.0.0",
+  "description": "Data Structures and Algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isanban/ds-and-algorithms.git"
+  },
+  "keywords": [
+    "Data",
+    "Structures",
+    "Algorithms"
+  ],
+  "author": "isanban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isanban/ds-and-algorithms/issues"
+  },
+  "homepage": "https://github.com/isanban/ds-and-algorithms#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
